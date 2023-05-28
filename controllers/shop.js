@@ -1,6 +1,4 @@
 const Product = require("../models/Product");
-const { getDb } = require("../util/database");
-const { ObjectId } = require("mongodb");
 // const CartItem = require("../models/CartItem");
 // const Order = require("../models/Order");
 // const OrderItem = require("../models/CartItem");
